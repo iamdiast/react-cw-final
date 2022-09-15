@@ -56,7 +56,7 @@ const assessment = [
     {
         question: "What is the biggest desert in the world?",
         options: ["Antarctic", "Arctic", "Sahara", "Arabian"],
-        answer: "Antarctic"
+        answer: "Antarctic, Sahara"
     }
 ];
 
