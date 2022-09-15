@@ -2,7 +2,7 @@
     margin: 50px auto;
     padding: 20px;
     box-shadow: 0px 5px 10px #ccc;
-    border: 1px solid rgb(237, 170, 170);
+    border: 1px solid rgb(26, 244, 255);
     width: 80%;
     box-sizing: border-box;
     text-align: center;
@@ -13,7 +13,7 @@
 
 .Score{
     text-align: center;
-    background-color: rgb(216, 148, 148);
+    background-color: rgb(0, 213, 255);
 }
 
 .buttonBar{

@@ -9,54 +9,54 @@ import Score from '../../components/Score/Score';
 
 const assessment = [
     {
-        question: "What country is the city Damascus in ??",
-        options: ["Russia", "USA", "China", "Syria"],
-        answer: "Syria"
+        question: "What song belongs to the Lana Del Rey?",
+        options: ["The Perfect Girl", "Good Lookin", "Starfall", "Diet Mountain Dew"],
+        answer: "Diet Mountain Dew"
     },
     {
-        question: "Which of the following countries is landlocked?",
-        options: ["Spain", "Italy", "Switzerland", "France"],
-        answer: "Switzerland"
+        question: "Who took Grammy *The Best Artist* in 2020?",
+        options: ["Post Malone", "Lil Peep", "Billie Eilish", "Mc Doncha"],
+        answer: "Billie Eilish"
     },
     {
-        question: "What is the smallest country?",
-        options: ["Russia", "Italia", "Spain", "Vatican"],
-        answer: "Vatican"
+        question: "What was the reason of death Lil Peep?",
+        options: ["Insult", "Heart Ache", "Coronavirus", "Overhight"],
+        answer: "Overhight"
     },
     {
-        question: "which country has the largest number of lakes.",
-        options: ["Russia", "USA", "China", "Canada"],
-        answer: "Canada"
+        question: "What is the most famous song of Juice WRLD?",
+        options: ["All girls are the same", "Roberry", "Fine China", "Lucid Dreams"],
+        answer: "Lucid Dreams"
     },
     {
-        question: "What is the highest mountain in the world  .",
-        options: ["Everest", "Lenin peak", "Peak of victory", "kilimanjaro"],
-        answer: "Everest"
+        question: "What is the name of the lead singer of Nirvana?",
+        options: ["Kurt Cobain", "Gene Simmons", "Paul Charles Caravello ", "Brian Johnson"],
+        answer: "Kurt Cobain"
     },
     {
-        question: "What is the longest river?.",
-        options: ["Nile", "Amazon", "Volga", "Mississippi"],
-        answer: "Amazon"
+        question: "Who is the best Russian Rap Artist?",
+        options: ["LSP", "All in this question", "Pharaoh", "Scriptonite"],
+        answer: "All in this question"
     },
     {
-        question: "What is the deepest lake?",
-        options: ["Baikal", "Issyk Kul", "Tanganyika", "Toba"],
-        answer: "Baikal"
+        question: "what song is this excerpt from? (I can't help but think that our roads might take us down different phases)",
+        options: ["Joji: Like u do", "Mirbek Atabekov", "The Beatles: Yesterday", "Kiss: I was made"],
+        answer: "Joji: Like u do"
     },
     {
-        question: "What is the biggest country?",
-        options: ["Russia", "Kyrgyzstan", "China", "France"],
-        answer: "Russia"
+        question: "Who is not singer?",
+        options: ["Megan Fox", "Adele", "Ariana Grande", "Lana Del Rey"],
+        answer: "Megan Fox"
     },
     {
-        question: "What is the longest mountain system?",
-        options: ["Mountain Altai", "Alps", "Cordillera", "Himalayat"],
-        answer: "Cordillera"
+        question: "who invented jazz?",
+        options: ["Marquise Jackson", "Bill Withers ", "Buddy Bolden", "50 cent"],
+        answer: "Buddy Bolden"
     },
     {
-        question: "What is the biggest desert in the world?",
-        options: ["Antarctic", "Arctic", "Sahara", "Arabian"],
-        answer: "Antarctic, Sahara"
+        question: "What was soundtrack to cartoon *Shrek*?",
+        options: ["Sunflower", "Like u do", "НА ТИТАНИКЕ", "All stars"],
+        answer: "All stars"
     }
 ];
 

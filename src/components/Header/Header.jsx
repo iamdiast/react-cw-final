@@ -6,7 +6,7 @@ const Header = (props) => {
     
     return(
         <div className={classes.Header}>
-           <span>Geography quiz</span>
+           <span>Music Questions</span>
            
         </div>
     );
